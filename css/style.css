@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     padding: 0px;
     margin: 0px;
@@ -5,4 +6,9 @@
 video{
     height: 100px;
     width: 100%;
+=======
+.card1{
+    height: 50px;
+    width: 50px;
+>>>>>>> 43d2c8108038cac4485b6cec24b3623666449320
 }
